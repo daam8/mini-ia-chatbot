@@ -1,6 +1,6 @@
 # Mini IA - Chatbot Inteligente 🤖
 
-## Estructura del proyecto
+## Estructura del proyecto, Profesora no supe como subir todos los archivos como la estructura, asi que por eso le subi el zip donde estan todas las carpetas.
 
 ```
 mini-ia-chatbot/
