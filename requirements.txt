@@ -1,0 +1,11 @@
+# Este proyecto usa únicamente la librería estándar de Python (versión 3.8+):
+# - json
+# - os
+# - re
+# - random
+# - unicodedata
+# - string
+# - difflib
+# - datetime
+# - unittest
+
